@@ -50,13 +50,13 @@ Ouvrez un terminal
 
 ### Importer le repository de GitHub 
 
-0 - Aller sur la page <https://github.com/TheHackademy/Atelier1>
+0 - Aller sur la page <https://github.com/TheHackademy/DataGramxAirBnB>
 
 1 - Appuyer sur le boutton vert *clone and download* (pour copier le lien du repo) 
 
 2 - Cloner le repository (dans votre dossier Ateliers) avec la commande suivante : 
 ```
-git clone RepoTest
+git clone https://github.com/TheHackademy/DataGramxAirBnB.git
 ```
 
 ### Lancer Jupyter
