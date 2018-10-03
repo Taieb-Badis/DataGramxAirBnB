@@ -37,7 +37,7 @@ Ouvrez un terminal
 - pwd : ou je suis (dans quel dossier je suis) 
 - cd *MonRepo* : changer de dossier (direcrtory)
 - ls : lister les objets présents (fichier et dossier) dans le répertoire sélectionné
-- mkldir *NewRepo* : créer un nouveau dossier de nom *NewRepo*  
+- mkdir *NewRepo* : créer un nouveau dossier de nom *NewRepo*  
 - man *UneCommande* : afficher le manuel de la commande sélectionnée
 
 ### Créer son dossier de travail 
